@@ -312,5 +312,7 @@ https://stream1.freetv.fun/879e5711563465069616775f329a9231f38887c8146e7e06f2a86
 
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视频道",CGTN西语
 
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
+
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
 https://stream1.freetv.fun/fba1e36cd299f593fcb94bb223fd798d37228e40724bfa4610a91455c0a107a9.m3u8
